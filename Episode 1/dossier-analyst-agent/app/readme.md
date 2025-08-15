@@ -1,4 +1,4 @@
-# dossier-analyst-agent Agent App
+# ai-initiative-finder-agent Agent App
 
 This is the app for the AI agent project created by Command.new
 
@@ -31,12 +31,12 @@ pnpm install
 
    > This will create a copy you control, so you can generate your own API key and customize as needed.
 
-2. Set up environment variables:
+3. Set up environment variables:
 ```bash
 cp .env.example .env
 ```
 
-3. Add your API keys to `.env`:
+4. Add your API keys to `.env`:
 ```env
 # Paste your Langbase API key here (find it in the "API" tab of your forked agent)
 LANGBASE_API_KEY=your_langbase_api_key_here

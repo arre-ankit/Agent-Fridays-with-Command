@@ -1,4 +1,4 @@
-# company-ai-initiative-finder-agent Agent App
+# ai-initiative-finder-agent Agent App
 
 This is the app for the AI agent project created by Command.new
 
@@ -25,20 +25,28 @@ This is the app for the AI agent project created by Command.new
 pnpm install
 ```
 
-2. Set up environment variables:
+2. Fork the agent to your own [Command.new](https://command.new) workspace:
+
+   [Fork this agent on Command.new](https://command.new/arre-ankit76795/company-ai-initiative-finder-agent)
+
+   > This will create a copy you control, so you can generate your own API key and customize as needed.
+
+3. Set up environment variables:
 ```bash
 cp .env.example .env
 ```
 
-3. Add your API keys to `.env`:
+4. Add your API keys to `.env`:
 ```env
-# Get API key from: https://command.new/arre-ankit76795/company-ai-initiative-finder-agent?tab=api
+# Paste your Langbase API key here (find it in the "API" tab of your forked agent)
 LANGBASE_API_KEY=your_langbase_api_key_here
 
 # Your OpenAI API key: https://platform.openai.com/api-keys
 OPENAI_API_KEY=your_openai_api_key_here
 
-# Add any other required environment variables
+COMMAND_USER_NAME=""
+
+AGENT_NAME=""
 ```
 
 ## Usage
