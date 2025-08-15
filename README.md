@@ -49,9 +49,9 @@ agent-name/
 
 ## 🎯 Agents So Far
 
-- **Dossier Analyst** — Deep research on any person
-- **Company AI Initiative Finder** — Track AI moves from any company over time
-- **Chat with PDF** — Conversational interface for any document
+- **[Dossier Analyst](/Episode%201/dossier-analyst-agent/)** — Deep research on any person
+- **[Company AI Initiative Finder](/Episode%201/ai-initiative-finder-agent/)** — Track AI moves from any company over time
+- **[Chat with PDF](/Episode%201/chat-with-pdf/)** — Conversational interface for any document
 - *(More added every Friday)*
 
 ## 💡 Contributing
