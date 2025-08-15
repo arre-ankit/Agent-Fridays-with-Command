@@ -1,4 +1,4 @@
-# Agent Fridays with Command.new 🚀
+# Agent Fridays with Command 🚀
 
 This is the official codebase for my weekly series **Agent Fridays with Command.new**, where I take AI agent ideas from the internet, build them in real time, and open source everything — so you can learn, test, and ship your own agents.
 
